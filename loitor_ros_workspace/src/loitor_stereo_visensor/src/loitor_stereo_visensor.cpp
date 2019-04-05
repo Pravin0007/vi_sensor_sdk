@@ -157,7 +157,7 @@ int main(int argc, char **argv)
 	ros::NodeHandle n;
 
 	// imu publisher
-	pub_imu = n.advertise<sensor_msgs::Imu>("imu0", 200);
+	pub_imu = n.advertise<sensor_msgs::Imu>("/imu0", 200);
  
 	// publish 到这两个 topic
 	image_transport::ImageTransport it(n);
