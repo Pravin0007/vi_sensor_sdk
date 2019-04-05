@@ -19,11 +19,11 @@ This package is used to run loitor camera module, which is a stereo camera which
 
 
 
-![loitor camera](https://drive.google.com/file/d/1ZkZ1TlxwB0LhU-lBLXqNv_lGFjm_ueJZ/view?usp=sharing)
+![loitor camera](/home/pravin/Downloads/loitor camera.jpg)
 
 
 
-![flow diagram](https://drive.google.com/file/d/1U4NLuPXDmU7dxO9kd60oBwOcXMzivSJy/view?usp=sharing)
+![Screenshot from 2019-04-06 03-33-51](/home/pravin/Pictures/Screenshot from 2019-04-06 03-33-51.png)
 
 
 
